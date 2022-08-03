@@ -1,0 +1,3 @@
+# Binary Search Tree Projesi
+### [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+### Root 7'dir. 5 eklenince root'tan küçük bir değer olduğu için sola gider. 1 değeri, 5 değerinden de küçük olduğundan sola gider. 8 değeri root'un sağına gider. 3 değeri root'tan küçük olduğu için sola, 5 değerinden küçük olduğu için tekrar sola ve 1 değerinden büyük olduğu için sağa gider. 0 değeri 1'in soluna gider. 9 değeri 8 değerinin sağına gider. 4 değeri sola gider ve 3 değerinin yanından sağa gider. 2 değeri 3 ün solundadır.
